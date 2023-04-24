@@ -1,0 +1,46 @@
+
+    
+    body {
+    background-color: rgb(82, 107, 155);
+    font-family: 'Shantell Sans', cursive;
+        letter-spacing:0.01em;
+        }
+    h1{
+        text-align: center;
+        }
+
+    .imag {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        overflow:visible;
+        height: 200px;
+
+        }
+    .poga{
+        font-size: large;
+        color: #ff0000;
+        border: 1px solid; 
+        }
+    .slipraksts{
+        font-style: italic;
+        
+    }
+    .teksts{
+        color:#ff7171; text-align: center;
+    }
+    .blakus{
+        float:left;
+    }
+    .blakusTeksts{
+        color:#ff7171; text-align:left ; 
+    }
+    .platums{
+        width: 60%;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: justify;
+    }
+    .apaksPoga{
+        margin-top: 6em;
+    }
